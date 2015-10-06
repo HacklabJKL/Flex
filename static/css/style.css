@@ -40,11 +40,11 @@ body {
   line-height: 1.2em;
 }
 a {
-  color: #d9411e;
+  color: #D9411E;
   text-decoration: none;
 }
 a:hover {
-  color: #ff5a09;
+  color: #FF5A09;
 }
 hr {
   color: #eeeeee;
@@ -73,7 +73,6 @@ aside div {
   margin: 0;
 }
 aside div img {
-  border-radius: 50%;
   max-width: 140px;
 }
 aside div h1 {
@@ -199,7 +198,7 @@ main footer p {
   font-size: 11px;
 }
 .tag-cloud a {
-  background-color: #d9411e;
+  background-color: #D9411E;
   padding: .2em .6em .2em;
   font-size: .74em;
   line-height: 1;
@@ -210,10 +209,10 @@ main footer p {
   border-radius: .25em;
 }
 .tag-cloud a:hover {
-  background-color: #ff5a09;
+  background-color: #FF5A09;
 }
 a.btn {
-  background-color: #d9411e;
+  background-color: #D9411E;
   padding: .4em .6em;
   font-size: .9em;
   line-height: 1;
@@ -224,7 +223,7 @@ a.btn {
   border-radius: .25em;
 }
 a.btn:hover {
-  background-color: #ff5a09;
+  background-color: #FF5A09;
 }
 .center {
   text-align: center;

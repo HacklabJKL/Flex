@@ -132,6 +132,16 @@ I'm using Flex in my [personal blog](http://blog.alexandrevicenzi.com/).
 
 ![Screenshot](https://github.com/alexandrevicenzi/Flex/blob/master/screenshot.png)
 
+## LESS compilation with gulp
+(written on Ubuntu 14.04)
+
+Running `gulp` build-tool requires newer version of nodejs than available in Ubuntu repos. Install by:
+
+    curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+    sudo apt-get install nodejs
+
+Then to compile minified and non-minified css run `gulp` in project root dir (with gulpfile.js).
+
 ## License
 
 MIT
